@@ -2,5 +2,5 @@
 Integrantes: 
 - Manuela Pardo
 - Sebastián Plata
-- Luisa Espinosa
+- Luisa Espinosa 
 - Valerie Ramírez
